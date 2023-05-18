@@ -1,9 +1,10 @@
 {
   "name": "todoapp",
+  "homepage": "https://fadi-hasaba.github.io/todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://fadi-hasaba.github.io/todo-app",
+   
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -15,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts bhbm]l0-kjgc84SSSS;V6TTLNM 78Cuild",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
